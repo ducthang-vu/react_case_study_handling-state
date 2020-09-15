@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/ReactCaseStudy_handlingState/static/js/main.3aaa750c.chunk.js",
-    "main.js.map": "/ReactCaseStudy_handlingState/static/js/main.3aaa750c.chunk.js.map",
+    "main.js": "/ReactCaseStudy_handlingState/static/js/main.e1d0ad5b.chunk.js",
+    "main.js.map": "/ReactCaseStudy_handlingState/static/js/main.e1d0ad5b.chunk.js.map",
     "runtime-main.js": "/ReactCaseStudy_handlingState/static/js/runtime-main.d60199b0.js",
     "runtime-main.js.map": "/ReactCaseStudy_handlingState/static/js/runtime-main.d60199b0.js.map",
     "static/js/2.05fce5c0.chunk.js": "/ReactCaseStudy_handlingState/static/js/2.05fce5c0.chunk.js",
     "static/js/2.05fce5c0.chunk.js.map": "/ReactCaseStudy_handlingState/static/js/2.05fce5c0.chunk.js.map",
     "index.html": "/ReactCaseStudy_handlingState/index.html",
-    "precache-manifest.890470907533ffb7d58520477ffc3d9f.js": "/ReactCaseStudy_handlingState/precache-manifest.890470907533ffb7d58520477ffc3d9f.js",
+    "precache-manifest.e3c9bedd1c002dcbc63f114e44fea9ad.js": "/ReactCaseStudy_handlingState/precache-manifest.e3c9bedd1c002dcbc63f114e44fea9ad.js",
     "service-worker.js": "/ReactCaseStudy_handlingState/service-worker.js",
     "static/js/2.05fce5c0.chunk.js.LICENSE.txt": "/ReactCaseStudy_handlingState/static/js/2.05fce5c0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d60199b0.js",
     "static/js/2.05fce5c0.chunk.js",
-    "static/js/main.3aaa750c.chunk.js"
+    "static/js/main.e1d0ad5b.chunk.js"
   ]
 }

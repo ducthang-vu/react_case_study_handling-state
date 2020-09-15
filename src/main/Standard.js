@@ -1,7 +1,6 @@
 import React, { useState } from 'react'
 import Counter from '../components/Counter'
 import ButtonsMenu from '../components/ButtonsMenu'
-import Container from './Container'
 
 const Standard = (props) => {
     const [counter, setCounter] = useState(props.initial)
